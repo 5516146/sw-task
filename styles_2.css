@@ -1,21 +1,19 @@
-/* 테이블 스타일 */
-table {
-    border-collapse: collapse;
-    width: 750px;
-    height: 500px;
-    font-family: Arial, sans-serif;
+table { /* table 스타일 지정 */
+    border-collapse: collapse; /* 테이블의 셀 간 경계선 병합 */
+    width: 750px; /* 테이블의 너비 지정 */
+    height: 500px; /* 테이블의 높이 지정 */
 }
 
-td {
-    border: 1px solid black;
-    padding: 10px;
-    text-align: center;
+td { /* 테이블 td 스타일 지정 */
+    border: 1px solid black; /* 셀에 검은색 경계선 추가 */
+    padding: 10px; /* 셀 안쪽 여백 추가 */
+    text-align: center; /* 셀 안의 텍스트 중앙 정렬 */
 }
 
-img {
-    height: 200;
+img { /* img 스타일 지정 */
+    height: 200px; /* 이미지 높이를 200px로 지정 */
 }
 
-a img {
-    width: 250;
+a img { /* a 안에 있는 img 스타일 지정 */
+    width: 250px; /* a 안의 이미지 너비를 250px로 지정 */
 }

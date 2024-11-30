@@ -1,20 +1,18 @@
-/* 행 색상 */
-.row-green {
-    background-color: green;
-    color: purple;
+.row-green { /* row-green 클래스 생성 */
+    background-color: green; /* 배경 색 초록색으로 지정 */
+    color: purple; /* 폰트 색상을 보라색으로 지정 */
 }
 
-.row-red {
-    background-color: red;
-    color: white;
+.row-red { /* row-red 클래스 생성 */
+    background-color: red; /* 배경 색 빨간색으로 지정 */
+    color: white; /* 폰트 색상 하얀색으로 지정 */
 }
 
-/* 텍스트 스타일 */
-.text-large {
-    font-size: 40px;
-    font-style: italic;
+.text-large { /* text-large 클래스 생성 */
+    font-size: 40px; /* 폰트 사이즈 40px로 지정 */
+    font-style: italic; /* 글씨체를 italic으로 지정 */
 }
 
-.text-small {
-    font-size: 30px;
+.text-small { /* text-small 클래스 생성 */
+    font-size: 30px; /* 폰트 사이즈 30px로 지정 */
 }
